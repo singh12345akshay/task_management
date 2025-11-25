@@ -45,7 +45,7 @@ You have two options for MongoDB:
 3. Create a database user and get your connection string
 4. Update the `.env` file in the backend folder with your Atlas connection string:
    ```
-   MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/taskmanagement
+   MONGODB_URI=""
    ```
 
 ### Backend Setup
