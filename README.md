@@ -115,3 +115,7 @@ The frontend will run on `http://localhost:3000`
 - `PUT /api/tasks/:id` - Update task
 - `DELETE /api/tasks/:id` - Delete task (Admin only)
 
+## Deployment
+
+See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed deployment instructions to Vercel, Netlify, Railway, and Render.
+
